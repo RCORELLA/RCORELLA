@@ -1,4 +1,17 @@
-## Hi there 👋
+## I'm Roberto Corella 👋
+
+
+
+🔭 I’m currently working on Business Central and Power Platform
+
+📫 How to reach me:
+
+[LinkedIn](https://www.linkedin.com/in/robertocorella/)
+
+
+
+
+
 
 <!--
 **RCORELLA/RCORELLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
